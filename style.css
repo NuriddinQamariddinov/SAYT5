@@ -1,0 +1,51 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+.home {
+  padding: 188px 0;
+  background-image: url("./img/people-office\ 1.png");
+}
+
+.home-title {
+  color: var(--WHITE, #fff);
+  text-align: center;
+
+  /* Header 1 */
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 1.12px;
+}
+
+.btn {
+  border-radius: 4px;
+  background: var(--IRIS, #4d5ae5);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  color: var(--WHITE, #fff);
+
+  /* Button Text */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+}
+
+.dif {
+  background-color: #f4f4fd;
+}
+
+.ft {
+  background-color: black;
+}
+
+.text {
+  width: 22222222px;
+}
+
+.tx {
+  width: 264px;
+}
